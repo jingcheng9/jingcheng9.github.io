@@ -2,3 +2,6 @@ baseURL = 'https://jingcheng9.github.io/'
 languageCode = 'zh-cn'
 title = 'Jingcheng的网站'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
