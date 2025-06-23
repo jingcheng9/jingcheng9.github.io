@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingcheng的网站</title>
+    <link>https://jingcheng9.github.io/</link>
+    <description>Recent content on Jingcheng的网站</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://jingcheng9.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
